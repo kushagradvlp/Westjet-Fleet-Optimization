@@ -1,6 +1,4 @@
 # Westjet-Fleet-Optimization
-Optimizing fleet optimization for westjet using gurobi python
-
 WestJet is a Canadian airline company that began its operations in 1996 as a low-cost carrier. As is the case for most airlines, WestJet also faces the challenging task of meeting the resurging demand while maintaining efficient scheduling of flights.
 The project aims to find the optimal fleet assignment for WestJet to maximize its profits while accommodating different demand markets. Aircraft fuel, salaries, airport fees, and maintenance account for 66% of operating expenses (Appendix Figure 1), which are highly dependent on the fleet assignment of specific aircraft types to the appropriate routes according to a given schedule. Moreover, fleet assignment influences the number of spilled passengers and the loss of potential
 revenue. While having different fleet types allows airlines to accommodate flight legs over different distances, costs, and demands, a suboptimal assignment may overturn the benefits of such flexibility.
